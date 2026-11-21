@@ -5,8 +5,8 @@ Personal site for Aamogh. Next.js app that lists public work: agent tooling, sys
 ## Run
 
 ```bash
-npm install
-npm run dev
+bun install
+bun run dev
 ```
 
 Open http://localhost:3000.
